@@ -76,7 +76,7 @@ This Blood Donation Management System helps simplify the process of finding bloo
 
 ## Author
 
-Developed by **Your Name**
+Developed by Ekram
 
 ## License
 
