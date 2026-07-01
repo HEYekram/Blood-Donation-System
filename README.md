@@ -43,23 +43,6 @@ The main objectives of this project are:
 5. The system helps connect blood donors with people who need blood.
 
 
-## Folder Structure
-
-```bash
-blood-donation-management-system/
-│
-├── index.html
-├── login.html
-├── register.html
-├── dashboard/
-├── admin/
-├── css/
-├── js/
-├── images/
-└── README.md
-```
-
-> The folder structure may vary depending on your project.
 
 ## Future Improvements
 
